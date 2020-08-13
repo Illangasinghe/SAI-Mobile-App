@@ -1,4 +1,4 @@
-# sai
+# SAI - Mobile Application
 
 A new Flutter mobile application project for investment, lending and borrowing and collecting money at customer's door step.
 
