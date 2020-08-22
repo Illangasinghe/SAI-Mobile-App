@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686390433003",
+    "firebase_url": "https://siloan.firebaseio.com",
+    "project_id": "siloan",
+    "storage_bucket": "siloan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686390433003:android:2f32fe89c04306238d1aae",
+        "android_client_info": {
+          "package_name": "com.susinidu.sai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686390433003-5ac993f52jal40mt3bhm31hsacj308dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcb60RTrWlqoUxFpeKtwWsbfSPLa6OW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686390433003-5ac993f52jal40mt3bhm31hsacj308dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
